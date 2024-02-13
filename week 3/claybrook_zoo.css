@@ -1,0 +1,35 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+h1, h2, h3 {
+    color: #333;
+}
+
+.animal-card {
+    border: 1px solid #333;
+    margin: 10px;
+    padding: 10px;
+    background-color: white;
+}
+
+.animal-name {
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+.animal-description {
+    color: #666;
+}
