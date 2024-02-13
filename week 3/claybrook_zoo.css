@@ -4,12 +4,12 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #cbce13;
+    background-color: #c1d32f;
 }
 
 header {
     background-color: #2b6b05;
-    color: rgb(10, 68, 4);
+    color: #014e2e;
     padding: 10px;
     text-align: center;
 }
@@ -18,12 +18,7 @@ h1, h2, h3 {
     color: #333;
 }
 
-.animal-card {
-    border: 1px solid #333;
-    margin: 10px;
-    padding: 10px;
-    background-color: white;
-}
+
 
 .animal-name {
     font-weight: bold;
